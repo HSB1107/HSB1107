@@ -10,7 +10,7 @@ I am a **Software Engineer** graduated from **IIT Roorkee**. My journey into tec
 
 ### 📈 Problem Solving & Achievements
 I enjoy the challenge of competitive programming as a way to stay curious and disciplined.
-* **LeetCode:** Max. Rating 2416 (Guardian)
+* **LeetCode:** Max. Rating 2437 (Guardian)
 * **Codeforces:** Max. Rating 1716 (Expert)
 * **CodeChef:** Max. Rating 1943 (4-Star)
 
